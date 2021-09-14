@@ -1,0 +1,12 @@
+body {
+    background-color: pink;
+}
+th {
+    border: 2px black solid;
+}
+td {
+    border: 2px black solid;
+}
+tr {
+    border: 2px black solid;
+}
